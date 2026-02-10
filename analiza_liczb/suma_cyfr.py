@@ -1,4 +1,4 @@
-liczba = int(input("Podaj liczbe calkowita: "))
+liczba = abs(int(input("Podaj liczbe calkowita: "))) # obsługa liczb ujemnych
 cyfra = 0
 suma = 0
 
