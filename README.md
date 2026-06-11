@@ -1,1 +1,1 @@
-Simple Python Projects
+Simple Python Exercises
